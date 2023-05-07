@@ -8,6 +8,10 @@ This is a solution to the FreeCodeCamp Drum Machine project.
 - CSS
 - [Bootstrap](https://getbootstrap.com/) - CSS library
 
+## Links
+
+- Live Site URL: https://thiagogrn.github.io/FCC-drum-machine/
+
 ## Author
 
 - Twitter - https://twitter.com/thiagogrn
